@@ -1,2 +1,2 @@
 FROM docker.io/httpd 
-Add . /var/www/html
+Add . /usr/local/apache2/htdocs
